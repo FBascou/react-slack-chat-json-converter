@@ -1,0 +1,35 @@
+[
+	{
+		"blocks": [
+			{
+				"block_id": "bWsC", 
+				"elements": [
+					{
+						"elements": [{"text": "OK, done!", "type": "text"}], 
+						"type": "rich_text_section"
+					}
+				],
+				"type": "rich_text"
+			}
+		], 
+		"client_msg_id": "0bf1a01f-c78b-4f3e-b2ef-a2cb3cf67821", 
+		"date":"210412145526"
+	},
+	{"blocks": [{"block_id": "uMS=", "elements": [{"elements": [{"text": "You can now message ", "type": "text"}, {"type": "user", "user_id": "U011BKGBN9M"}, {"text": " he will begin the onboarding process for you ", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "b58321676f-1asad-49e3-af", "date":"210412145526"},
+	{"blocks": [{"block_id": "RQq", "elements": [{"elements": [{"text": "I will invite your to confluence for now. Where you will find a getting started file. Inside there will be a welcoming presentation", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "b225676f-1asad-49e3-af", "date":"210412145526"},
+	{"blocks": [{"block_id": "qRMK", "elements": [{"elements": [{"text": "Great! Thanks Nicolas!", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "6de2dac1-9da7-434e-b311-ddd86", "date":"210412145526"},
+	{"blocks": [{"block_id": "T041+", "elements": [{"elements": [{"text": "Hey Nicolas", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "7fa1cb17-878f-491e-97a1-2639e23f3439", "date":"210412145526"},
+	{"blocks": [{"block_id": "6d1Ht", "elements": [{"elements": [{"text": "Who is the other QA may I ask", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "b225676f-1af2-49e3-af", "date":"210412145526"},
+	{"blocks": [{"block_id": "syI5", "elements": [{"elements": [{"type": "user", "user_id": "U012PMYA4UE"}, {"text": " . Have you been contacted by kenan or ibtsam ? ", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "b684226f-1asad-49e3-af", "date":"210412145526"},
+	{"blocks": [{"block_id": "Dbv+6", "elements": [{"elements": [{"text": "Yes and Yes", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "b5bf03f0-ef05-43f7-a050-5c115c2ec637", "date":"210412145526"},
+	{"blocks": [{"block_id": "gIz3A", "elements": [{"elements": [{"text": "Kenan mentioned to go over documents in Confluence.", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "bcasd54526f-1asad-49e3-af", "date":"210412145526"},
+	{"blocks": [{"block_id": "jMj2", "elements": [{"elements": [{"text": "Ibtsam said Hi", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "cd9ba734-cb90-484b-8823-808008eb9e38", "date":"210412145526"},
+	{"blocks": [{"block_id": "gKqXQ", "elements": [{"elements": [{"text": "Haha ", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "CB1E6881-7A75-4135-A417-6055017F4C3B", "date":"210412145526"},
+	{"blocks": [{"block_id": "lO98l", "elements": [{"elements": [{"text": "Ibtsam is in charge of QAs he asked me if you were available for a call ", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "C5461-7A75-4135-A417-60550asca4C3B", "date":"210412145526"},
+	{"blocks": [{"block_id": "M4Odg", "elements": [{"elements": [{"text": "Okay, I'll just wait for his reponse.", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "b6cdba6f-c2f7", "date":"210412145526"},
+	{"blocks": [{"block_id": "p9Op", "elements": [{"elements": [{"text": "It\u2019s late there so they may be out of office now.\n\n", "type": "text"}, {"text": "We operate from 8am till 4pm from Monday\u2019s to Friday", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "3sad348-c1e8-446c", "date":"210412145526"},
+	{"blocks": [{"block_id": "/I6RM", "elements": [{"elements": [{"text": "Cool, then Monday it is, thanks.", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "341bb8-c1e8-446c", "date":"210412145526"},
+	{"blocks": [{"block_id": "cIj", "elements": [{"elements": [{"text": "Hey Nicolas", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "7a8774f3-6704-4980-8d88-ac8d6fa1aa75", "date":"210412145526"},
+	{"blocks": [{"block_id": "ED=", "elements": [{"elements": [{"text": "For some reason my hubstaff stopped recording.", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "d768ee-asdas234-32424", "date":"210412145526"},
+	{"blocks": [{"block_id": "wSA", "elements": [{"elements": [{"text": "Also when I visit my activity, everything is gone.", "type": "text"}], "type": "rich_text_section"}], "type": "rich_text"}], "client_msg_id": "8cas234-32424", "date":"210412145526"}
+]
